@@ -33,3 +33,12 @@ The goal of this project was to analyze Ola's ride-sharing data to derive action
 ## 5. How to Run
 1. Ensure all screenshot files are in the same directory.
 2. Run the command: `streamlit run ola.py`
+
+
+## 6. Dashboard Preview
+
+![Overall](overall.png)
+![Revenue Dashboard](revenue.png)
+![Cancellation Analysis](cancellation.png)
+![Ratings Analysis](ratings.png)
+![Vehicle type Analysis](vehicle_type.png)
